@@ -1,3 +1,3 @@
-# GRIND
-A respository of GRIND.
-Comming soon.
+# GRaph-based Interpretive Network (GRIN) for depression detection
+This is the official repository of GRIN. We will open-source the code here after the acceptance of the paper.
+Comming soon...
